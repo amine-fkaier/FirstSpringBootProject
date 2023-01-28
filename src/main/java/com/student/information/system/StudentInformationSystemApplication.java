@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class StudentInformationSystemApplication {
     public static void main(String[] args) {
+        //aaaaaaaaaaaaaaa
         SpringApplication.run(StudentInformationSystemApplication.class, args);
     }
 }
